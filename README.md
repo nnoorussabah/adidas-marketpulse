@@ -113,11 +113,11 @@ Depending on the selected market, category, channel and consumer segment, the da
 - Gross Margin %
 - Sell-Through %
 
-It then dynamically generates a:
+It then dynamically generates:
 
-**SIGNAL** — what changed?  
-**SO WHAT?** — why might it matter?  
-**ACTION** — what should be investigated next?
+**SIGNAL** — What changed?  
+**SO WHAT?** — Why might it matter?  
+**ACTION** — What should be investigated next?
 
 This layer is designed as decision support rather than automated decision-making.
 
@@ -146,3 +146,31 @@ adidas-marketpulse/
 ├── docs/
 │   └── methodology.md
 └── README.md
+```
+
+---
+
+## Explore the Project
+
+The complete interactive Power BI report is available here:
+
+**[Open the MarketPulse Power BI report](dashboard/adidas_MarketPulse.pbix)**
+
+The supporting synthetic dataset, public benchmark workbook and data documentation can be found in the **[data folder](data/)**.
+
+For details on how the dataset and modelled scenarios were constructed, see the **[methodology](docs/methodology.md)**.
+
+---
+
+## About Me
+
+**Noor Us Sabah**  
+B.Sc. International Information Systems · Technische Hochschule Augsburg
+
+Interested in using data to connect consumer behaviour, commercial performance and business decision-making.
+
+**[LinkedIn](https://www.linkedin.com/in/nnoorussabahh)** · **[GitHub](https://github.com/nnoorussabah)**
+
+---
+
+*MarketPulse is an independent portfolio case study created for educational and career-development purposes. adidas is not affiliated with or responsible for this project. Granular commercial data shown in the dashboard is synthetic.*
